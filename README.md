@@ -9,6 +9,12 @@ A real-time Android chat application built with Kotlin and Firebase, featuring m
 - 🖼️ Edit or remove profile picture
 - 🏗️ MVVM Architecture with Dagger Hilt
 
+## ScreenShots
+<img width="260" height="592" alt="image" src="https://github.com/user-attachments/assets/cbe7fc52-f118-427a-b412-93adda58155a" /> <img width="259" height="592" alt="image" src="https://github.com/user-attachments/assets/6938de10-65de-4015-83e4-06182d437af5" />  <img width="274" height="591" alt="image" src="https://github.com/user-attachments/assets/8fafb819-26bd-4949-8f46-ac4e0af20515" />
+
+
+
+
 ## Tech Stack
 - **Language:** Kotlin
 - **Architecture:** MVVM (Model-View-ViewModel)
